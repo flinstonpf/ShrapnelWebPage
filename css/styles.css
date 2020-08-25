@@ -1,19 +1,24 @@
-nav {
-    size: 600px;
-}
-button{
-    font-size: large;
-    height:1fr;
-    width:1fr;
-    color:red;
+nav{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 p {
-    color:#5cbdb9;
+    color:white;
 }
 body {
-    background-color:#e1b382;
+    background-image:radial-gradient(circle,#929d9e,#535858);
+
+}
+a{
+    color:white;
 }
 .container{
-    background-color:black;
     padding: 30px;
+}
+.carousel-inner{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+.carousel-inner img {
+    image-resolution: 900dpi;
 }
