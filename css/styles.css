@@ -1,0 +1,19 @@
+nav {
+    size: 600px;
+}
+button{
+    font-size: large;
+    height:1fr;
+    width:1fr;
+    color:red;
+}
+p {
+    color:#5cbdb9;
+}
+body {
+    background-color:#e1b382;
+}
+.container{
+    background-color:black;
+    padding: 30px;
+}
